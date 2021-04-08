@@ -18,3 +18,33 @@ DATABASE = 'YOUR DATABASE URL'
 JWT_SECRET = 12345
 
 ```
+
+then run backend, called 
+
+first you need to install whole package,
+
+`npm install` or `npm i`
+
+then
+
+`npm start` (I have installed nodemon)
+
+That's it for backend
+
+then go to the `frontend` folder
+
+first you need to install whole package 
+
+`npm install`
+
+then 
+
+`npm start`
+
+Thats it<:
+
+Happy coding
+
+note: if you face any problem then please contact with me or make a issue.
+
+Thank you (:
