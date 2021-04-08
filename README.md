@@ -19,7 +19,7 @@ JWT_SECRET = 12345
 
 ```
 
-then run backend, called 
+then run backend
 
 first you need to install whole package,
 
